@@ -1,0 +1,65 @@
+body{
+  font-family: 'Titillium Web', sans-serif;
+
+}
+div.container {
+  width: 100%;
+  border: 1px solid tag;
+  background-color: #c6bcb4;
+}
+
+header, footer {
+  padding: 2em;
+  color: white;
+  background: #f44c09;
+  clear: left;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: 'Titillium Web', sans-serif;
+  text-transform: full-width;
+}
+
+header {
+  font-size: 30px;
+}
+
+nav {
+  float: left;
+  max-width: 200px;
+  margin: 10px;
+  background-color: #f44c09;
+  color: white;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: block;
+
+}
+
+nav ul a {
+text-decoration-color:skyblue;
+color: white;
+}
+
+article {
+  margin-left: 170px;
+  border-left: 1px solid gray;
+  padding: 1em;
+  overflow: hidden;
+  background-color: #dbd8d6;
+}
+
+a:hover {
+  color: rgb(94, 189, 27);
+}
+
+.list-unstyled {
+  margin: 20px;
+}
+.img1{
+  float: right;
+ opacity: none;
+
+}
